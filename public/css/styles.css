@@ -1,0 +1,47 @@
+body {
+  background-color: #e8ecef;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.btn-color {
+  background-color: #0e1c36;
+  color: #fff;
+}
+
+.profile-image-pic {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.cardbody-color {
+  background-image: linear-gradient(
+    to right,
+    rgb(113, 99, 234),
+    rgb(10, 108, 104)
+  );
+}
+.quote_style {
+  background-color: rgb(115, 112, 117);
+  margin: 0 15px;
+  padding: 25px;
+  text-align: center;
+  font-size: 1.5rem;
+  color: rgb(3, 255, 217);
+}
+
+.reg_card_body-color {
+  background-image: linear-gradient(
+    to left,
+    rgba(255, 0, 0, 0),
+    rgb(149, 255, 0)
+  );
+}
+
+a {
+  text-decoration: none;
+}
